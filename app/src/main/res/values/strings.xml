@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NabinScrollView</string>
+    <string name="name">Make</string>
+    <string name="title">Type and Run</string>
+    <string name="btn2">CREATE DIESEL</string>
+    <string name="btn">CREATE CAR</string>
+    <string name="price">Purchase price($)</string>
+    <string name="lit">Engine size(litre)</string>
+</resources>
